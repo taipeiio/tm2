@@ -416,7 +416,7 @@
 
 ## 沿革
 
-- [初譯](https://tw.network.okfn.org/2017/08/21/tallinn-manual/)
+- [初譯](https://hackmd.io/KwDgxgTAjCUGYFoAmAGCAjBAWFBDAbAuklAMwK4oDs6pwpcuEAnMEA==)
 - [討論與條目中譯付梓](https://tw.network.okfn.org/2017/08/21/tallinn-manual/)
 - [建立專屬網頁](http://tm2.taipei.io)
 
