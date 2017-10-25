@@ -414,6 +414,8 @@
 
 特別感謝：Beatrice Liu, Crystal Tu, TH Schee
 
+本計劃由：[開放知識基金會台灣](https://tw.network.okfn.org/) 所支持
+
 ## 沿革
 
 - [初譯](https://hackmd.io/KwDgxgTAjCUGYFoAmAGCAjBAWFBDAbAuklAMwK4oDs6pwpcuEAnMEA==)
